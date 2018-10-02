@@ -1,9 +1,14 @@
-# xyz.cobra-load.com
-My Personal Domain
+# ~*xyz.cobra-load.hax*~
 
-I opened this GitHub to have a public place where others can access my personal files, programs, movies, music,
-etc. without the need for others to track down and find software like I had to. Escpecially since nowadays 
-even HTTPS websites such as direct links from HTTPS://MicroSoft.com/ show that some ads or something is 
-making oyour connection insecure, even though these companies are required by both moral and legal law to protect
-our privacy. So it doesn't suffice saying that the internet can be a bad place for someone looking to do no harm. Thats
-why my personal website is on GitHub, where anybody and everybody can freely and safely access my website, all the while you're able to view the source code and know you're safe.
+xyz.cobra-load.hax is a website for me to host my personal media content in a safe and verifiable way
+but also making it easy to use, Mobile friendly, fast, safe, and most importantly, private way. But 
+the thing to remember is this is MY website, I'M making it, and it's soley for the purpose of my
+amusement, education, and simplification of the internet. I cannot make a website "work for your phone"
+or "compatible with all devices". Case in point, the PlayStation 3 Systems in-built web browser doesn't 
+load all types of webpages, and as much as I would like to have support for every type of browser, device,
+and connection, I can't. I will try my best, however, to make this a feature rich, worth using, beautifully 
+and we'll designed website.
+
+
+
+
