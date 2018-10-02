@@ -1,4 +1,4 @@
-# ~*xyz.cobra-load.hax*~
+# xyz.cobra-load.hax
 
 xyz.cobra-load.hax is a website for me to host my personal media content in a safe and verifiable way
 but also making it easy to use, Mobile friendly, fast, safe, and most importantly, private way. But 
